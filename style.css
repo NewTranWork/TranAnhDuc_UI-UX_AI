@@ -74,3 +74,19 @@ footer {
     color: white;
     margin-top: 20px;
 }
+
+/* Logo */
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 150px; /* Kích thước logo */
+}
+
+/* Ảnh hero */
+.hero-image {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
